@@ -48,7 +48,7 @@ How to run it
 --------------
 1. Clone the repository `git@github.com:dlpigpen/Foursquare-Coffeeshop-Finder.git`.
 2. Move to the [Finished Project folder](/FinishedProject).
-3. Open ATM Finder workspace using XCode and run the project.
+3. Open CF Finder workspace using XCode and run the project.
 4. [Set the location in the Simulator](http://stackoverflow.com/questions/214416/set-the-location-in-iphone-simulator) to lat: 12.238791 lon: 109.196749
 5. Enjoy it!. 
 
