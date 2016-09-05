@@ -14,9 +14,7 @@ Create a simple, native iOS application to find coffee shops near your location.
 ● Use the Foursquare API (or a different API of the candidates choosing) to gather information about nearby coffee shops 
 ![Coffeeshop listing](6.PNG)
 ● Show a map with pin overlays representing the coffee shop locations 
-![Show a map with pin overlays](6.PNG)
 ● Selecting a pin should show a brief description of the coffee shop 
-![Description of the coffee shop](6.PNG)
 ● The user should have a way to see more details about the coffee shop Above are the minimum requirements that the application should have. Ideally you will include additional features of your choosing. 
 ![More details about the coffee shop](7.PNG)
 
