@@ -12,7 +12,7 @@ The assignment was:
 Create a simple, native iOS application to find coffee shops near your location. This application should meet the following minimum requirements: 
 
 ● Use the Foursquare API (or a different API of the candidates choosing) to gather information about nearby coffee shops 
-![Coffeeshop listing](6.PNG)
+<img src="https://github.com/dlpigpen/Foursquare-Coffeeshop-Finder/blob/master/6.PNG" width="563">
 
 ● Show a map with pin overlays representing the coffee shop locations 
 
