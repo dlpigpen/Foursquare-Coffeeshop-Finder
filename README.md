@@ -1,5 +1,7 @@
 Foursquare CF Finder
 ---------------
+The source code is written by Objective-C
+---------------
 Foursquare CF Finder is a sample iOS app which uses the [FourSquare API](https://developer.foursquare.com/) to find coffee-shops near the user and show them on a map.
 
 Purpose
