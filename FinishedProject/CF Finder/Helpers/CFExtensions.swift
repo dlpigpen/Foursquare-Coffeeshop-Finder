@@ -21,7 +21,7 @@ extension NSArray {
                     // put in function
                     return .None
                 }
-                print("JSONDictionary! \(JSONDictionary)")
+                //print("JSONDictionary! \(JSONDictionary)")
                 let json = JSON(JSONDictionary)
 
                 let response = json["response"]["venues"]
